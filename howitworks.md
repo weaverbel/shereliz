@@ -10,7 +10,7 @@ I ~~struggled~~ struggle with stuff.
 
 Link to [Software Carpentry](https://www.software-carpentry.org).
 
-1. Food
+1. Oreos
 2. Drink
 3. Tummy ache
 
